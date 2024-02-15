@@ -1,0 +1,30 @@
+
+
+
+body {
+    background-color: rgb(31, 105, 134);
+    font-family: "Nunito", sans-serif;
+}
+
+nav {
+    background-color: rgb(100, 100, 127);
+    font-weight: bold;
+}
+
+header {
+    background-color: rgb(80, 58, 100);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#pokeball {
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+footer {
+    background-color: rgb(80, 58, 100);
+}
+
